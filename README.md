@@ -8,4 +8,5 @@ Every Apple Platform Security Guide
 | [Fall 2019](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2019-fall-apple-platform-security-guide.pdf)   | `10.15.2`   | `13.3` | `6.1.1` |
 | [Spring 2020](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2020-spring-apple-platform-security-guide.pdf) | `10.15.4` | `13.4` | `6.2` |
 | [February 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-february-apple-platform-security-guide.pdf) | `11.1` | `14.3` | `7.2`|
+| [May 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-may-apple-platform-security-guide.pdf) | `11.3` | `14.5` | `7.4` |
 
