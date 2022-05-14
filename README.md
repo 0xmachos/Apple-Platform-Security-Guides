@@ -11,4 +11,4 @@ Official Apple [Document revision history](https://support.apple.com/en-gb/guide
 | [Spring 2020](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2020-spring-apple-platform-security-guide.pdf) | `10.15.4` | `13.4` | `6.2` |
 | [February 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-february-apple-platform-security-guide.pdf) | `11.1` | `14.3` | `7.2`|
 | [May 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-may-apple-platform-security-guide.pdf) | `11.3` | `14.5` | `7.4` |
-
+| [May 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-may-apple-platform-security-guide.pdf) | `12.3` | `15.4` | `8.5` |
