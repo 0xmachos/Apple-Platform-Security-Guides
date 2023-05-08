@@ -21,3 +21,9 @@ Official Apple [Document revision history](https://support.apple.com/en-gb/guide
 | [December 2020](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2020-december-device-and-data-access-when-personal-safety-is-at-risk.pdf) | Device and Data Access when Personal Safety is At Risk |
 | [Janaury 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-january-personal-safety-user-guide.pdf) | Personal Safety User Guide |
 | [May 2023](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2023-may-personal-safety-user-guide.pdf) | Personal Safety User Guide for Apple devices |
+
+# Other
+| Date | Title |
+| ---- | ----- |
+| [October 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-october-Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf) | Building a Trusted Ecosystem for Millions of Apps |
+| [December 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-december-iCloud_Private_Relay_Overview.PDF) | iCloud Private Relay Overview |
