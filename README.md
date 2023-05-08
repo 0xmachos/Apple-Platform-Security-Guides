@@ -1,4 +1,4 @@
-# Apple-Platform-Security-Guides
+# Apple Platform Security Guides
 Every Apple Platform Security Guide
 
 (Older [iOS Security Guides](https://github.com/0xmachos/iOS-Security-Guides) & older [OS X/ macOS Whitepapers](https://github.com/0xmachos/mac-white-papers))
@@ -12,3 +12,12 @@ Official Apple [Document revision history](https://support.apple.com/en-gb/guide
 | [February 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-february-apple-platform-security-guide.pdf) | `11.1` | `14.3` | `7.2`|
 | [May 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-may-apple-platform-security-guide.pdf) | `11.3` | `14.5` | `7.4` |
 | [May 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-may-apple-platform-security-guide.pdf) | `12.3` | `15.4` | `8.5` |
+
+
+# Personal Safety User Guide for Apple devices
+
+| Date            | Title |
+| ----            | ----- |
+| [December 2020](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2020-december-device-and-data-access-when-personal-safety-is-at-risk.pdf) | Device and Data Access when Personal Safety is At Risk |
+| [Janaury 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-january-personal-safety-user-guide.pdf) | Personal Safety User Guide |
+| [May 2023](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2023-may-personal-safety-user-guide.pdf) | Personal Safety User Guide for Apple devices |
