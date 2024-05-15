@@ -22,6 +22,7 @@ Official Apple [Document revision history](https://support.apple.com/en-gb/guide
 | [December 2020](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2020-december-device-and-data-access-when-personal-safety-is-at-risk.pdf) | Device and Data Access when Personal Safety is At Risk |
 | [January 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-january-personal-safety-user-guide.pdf) | Personal Safety User Guide |
 | [May 2023](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2023-may-personal-safety-user-guide.pdf) | Personal Safety User Guide for Apple devices |
+| [March 2024](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2024-march-personal-safety-user-guide-en_GB.pdf) | Personal Safety User Guide |
 
 # Other
 | Date | Title |
