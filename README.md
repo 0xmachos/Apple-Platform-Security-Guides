@@ -12,6 +12,7 @@ Official Apple [Document revision history](https://support.apple.com/en-gb/guide
 | [February 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-february-apple-platform-security-guide.pdf) | `11.1` | `14.3` | `7.2`|
 | [May 2021](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2021-may-apple-platform-security-guide.pdf) | `11.3` | `14.5` | `7.4` |
 | [May 2022](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2022-may-apple-platform-security-guide.pdf) | `12.3` | `15.4` | `8.5` |
+| [May 2024](https://github.com/0xmachos/Apple-Platform-Security-Guides/blob/master/2024-may-apple-platform-security-guide.pdf) | `14.3` | `17.3` | `10.3` |
 
 
 # Personal Safety User Guide for Apple devices
